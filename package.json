@@ -29,7 +29,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "engines": {
-    "node": "10"
+    "node": "18.x"
   },
   "dependencies": {
     "axios": "0.19.2",
